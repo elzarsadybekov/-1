@@ -1,0 +1,36 @@
+:root {
+    --main-bg: #ffffff;
+    --button-bg: #23A6F0;
+    --main-text-color: #ffffff;
+    --second-text-color: #252B42;
+    --third-text-color: #737373;
+    --font-weight-bold: 700;
+    --font-weight-regular: 400;
+    --h3-font-size: 24px;
+    --h5-font-size: 16px;
+    --text-line-height1: 32px;
+    --text-line-height2: 24px;
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, h1, h2, h3, h4, h5, h6, ul, div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
